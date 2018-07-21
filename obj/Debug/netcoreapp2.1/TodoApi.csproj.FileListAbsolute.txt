@@ -12,3 +12,17 @@ D:\webapiLearn\TodoApi\obj\Debug\netcoreapp2.1\TodoApi.AssemblyInfo.cs
 D:\webapiLearn\TodoApi\obj\Debug\netcoreapp2.1\TodoApi.RazorTargetAssemblyInfo.cache
 D:\webapiLearn\TodoApi\obj\Debug\netcoreapp2.1\TodoApi.dll
 D:\webapiLearn\TodoApi\obj\Debug\netcoreapp2.1\TodoApi.pdb
+E:\webapiLearn\TodoApi\bin\Debug\netcoreapp2.1\TodoApi.deps.json
+E:\webapiLearn\TodoApi\bin\Debug\netcoreapp2.1\TodoApi.runtimeconfig.json
+E:\webapiLearn\TodoApi\bin\Debug\netcoreapp2.1\TodoApi.runtimeconfig.dev.json
+E:\webapiLearn\TodoApi\bin\Debug\netcoreapp2.1\TodoApi.dll
+E:\webapiLearn\TodoApi\bin\Debug\netcoreapp2.1\TodoApi.pdb
+E:\webapiLearn\TodoApi\obj\Debug\netcoreapp2.1\TodoApi.csprojAssemblyReference.cache
+E:\webapiLearn\TodoApi\obj\Debug\netcoreapp2.1\TodoApi.csproj.CoreCompileInputs.cache
+E:\webapiLearn\TodoApi\obj\Debug\netcoreapp2.1\TodoApi.RazorAssemblyInfo.cache
+E:\webapiLearn\TodoApi\obj\Debug\netcoreapp2.1\TodoApi.RazorAssemblyInfo.cs
+E:\webapiLearn\TodoApi\obj\Debug\netcoreapp2.1\TodoApi.AssemblyInfoInputs.cache
+E:\webapiLearn\TodoApi\obj\Debug\netcoreapp2.1\TodoApi.AssemblyInfo.cs
+E:\webapiLearn\TodoApi\obj\Debug\netcoreapp2.1\TodoApi.RazorTargetAssemblyInfo.cache
+E:\webapiLearn\TodoApi\obj\Debug\netcoreapp2.1\TodoApi.dll
+E:\webapiLearn\TodoApi\obj\Debug\netcoreapp2.1\TodoApi.pdb

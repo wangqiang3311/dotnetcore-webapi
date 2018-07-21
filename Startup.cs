@@ -31,8 +31,10 @@ namespace TodoApi
             //跨域设置
             services.AddCors(options =>
                 {
-                    options.AddPolicy("AllowSpecificOrigin",
-                        builder => builder.WithOrigins("http://localhost:8080")
+                    options.AddPolicy("AllowAllOrigin",
+                        builder => builder.AllowAnyOrigin()
+                                          .AllowAnyMethod()
+                                          .AllowAnyHeader()
                                           .AllowCredentials()
                         );
                 });
@@ -58,7 +60,7 @@ namespace TodoApi
                 app.UseHsts();
             }
             
-            app.UseCors("AllowSpecificOrigin");
+            app.UseCors("AllowAllOrigin");
 
             app.UseDefaultFiles();
             app.UseStaticFiles();

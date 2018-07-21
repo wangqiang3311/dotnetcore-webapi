@@ -8,7 +8,7 @@ namespace TodoApi.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]
-    [EnableCors("AllowSpecificOrigin")]
+    [EnableCors("AllowAllOrigin")]
     public class TodoController : ControllerBase
     {
         private readonly TodoContext _context;
