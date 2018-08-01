@@ -14,7 +14,7 @@
 
   1、在Main方法中添加如下代码：
   
-    var config = new ConfigurationBuilder()
+           var config = new ConfigurationBuilder()
                       .SetBasePath(Directory.GetCurrentDirectory())
                       .AddJsonFile("hosting.json", optional: true)
                       .Build();
